@@ -50,12 +50,6 @@ A web development student focusing on both front-end development. Possesses basi
 - **Type:** Team Project
 - **Description:** A sales project using Laravel and Blade master layout.
 
-### Tool Export LMS Project
-- **Link:** Export Score Extension
-- **GitHub:**
-- **Type:** Team Project
-- **Description:** A Chrome extension project using ReactJS that allows teachers to export grades to Excel.
-
 ## ACHIEVEMENTS
 ![Alt text](https://i.pinimg.com/564x/b4/bb/c6/b4bbc6d92cf040d7a1e23baa29ad1ff6.jpg)
 - Participate in the semi-finals of the AI ​​hackathon 2024
