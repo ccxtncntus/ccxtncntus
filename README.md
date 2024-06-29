@@ -45,5 +45,5 @@ A web development student focusing on both front-end development. Possesses basi
 - **Description:** A project using ReactJS, NodeJS, MongoDB, and ExpressJS. It allows running and compiling code online, and features Q&A with AI using Gemini and ChatGPT APIs.
 
 ## ACHIEVEMENTS
-![Alt text](https://i.pinimg.com/564x/b4/bb/c6/b4bbc6d92cf040d7a1e23baa29ad1ff6.jpg)
+![Alt text](https://github.com/ccxtncntus/ccxtncntus/blob/main/hackathon.jpg)
 - Participate in the semi-finals of the AI ​​hackathon 2024
