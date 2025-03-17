@@ -1,22 +1,30 @@
 # HUA VAN TU
 ## WEBSITE DEVELOPER
 
-**TEL/ZALO:** 0327297102 | **Email:** ccxtncn00@gmail.com
+**PHONE - ZALO:** 0327297102 | **EMAIL:** ccxtncn00@gmail.com
 
-## 👤PROFILE
+## GIỚI THIỆU
 
-A web development student focusing on both front-end development. Possesses basic knowledge in developing front-end interfaces with ReactJS and use API from back-end services. Enthusiastic about learning new technologies and improving skills to keep up with industry trends. Seeking opportunities to apply academic knowledge in a professional setting and gain hands-on experience.
+Là một lập trình viên phát triển website, có kiến thức cơ bản về phát triển giao diện front-end với ReactJS và các dịch vụ back-end với Laravel, ExpressJS. Nhiệt tình học hỏi các công nghệ mới và nâng cao kỹ năng để theo kịp xu hướng của ngành. Có kinh nghiệm tham gia các dự án nhóm, các dự án trong quá trình thực tập. Luôn sẵn sàng học hỏi và không ngừng cải thiện kỹ năng bản thân để đóng góp tốt nhất cho công ty.
 
-## 💻TECH STACK
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## 🎓EDUCATION
-
+## CÔNG NGHỆ
+- **Trung bình:**
+  - Ngôn ngữ lập trình: Javascript, PHP
+  - Framework: ReactJS, NodeJS, Laravel
+  - Database: MySQL, MongoDB
+  - Thư viện: Bootstrap, Material UI, Axios, Redux, Socket.IO
+- **Cơ bản:** Typescript, NextJs, Redis
+## TOOLS
+- **Trung bình:** Git, Github, Vscode, Postman, Firebase
+## HỌC VẤN
 **FPT Polytechnic Tay Nguyen**
 2022 - 2024
-
+**GPA**
+4.0
+## KINH NGHIỆM
+**Thành viên Xưởng thực hành FPT Polytechnic Tây Nguyên từ 10/2023 - 12/2024**
+**Thực tập sinh Frontend Tại Công ty TNHH Cuội Agency từ 08/2024 - 01/2025**
 ## ✍️PROJECTS
-
 ### Support Learning IT Project
 - **GitHub:** https://github.com/hptprobook/trainning_equipment_2024
 - **Type:** Personal Project
