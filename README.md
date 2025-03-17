@@ -28,6 +28,7 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
 ### Hệ thống bán hàng thời trang BMT Life
 - **GitHub:** [https://github.com/hptprobook/trainning_equipment_2024](https://github.com/hptprobook/datn)
 - **Mô tả:** Website bán hàng thời trang
+- **Loại:** Dự án nhóm
 - **Công nghệ:** MongoDB, ReactJS, NodeJs, MUI, Socket, Firebase, TailwindCSS, React-query, Redis, Elasticsearch.
 - **Chức năng nổi bật:**
   - Đăng ký, đăng nhập Google
@@ -37,14 +38,10 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
   - Chatbot AI
 - **Công việc thực hiện:**
   - Phát triển API về giỏ hàng, đơn hàng, người dùng, auth, thanh toán
-### Sales store Project
-- **GitHub:** https://github.com/ccxtncntus/wibustore
-- **Type:** Sales store project
-- **Description:** Developed a single-vendor online store for selling model kits to hobbyists and collectors.
-- **Technology:** Reactjs, Laravel, Mysql.
 ### Shop bán hàng Mô hình
 - **GitHub:** https://github.com/ccxtncntus/wibustore
 - **Mô tả:** Website bán hàng mô hình
+- **Loại:** Dự án cá nhân
 - **Công nghệ:** Reactjs, Laravel, Mysql.
 - **Chức năng nổi bật:**
   - Đăng ký, đăng nhập
@@ -57,6 +54,6 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
 ![Alt text](https://github.com/ccxtncntus/ccxtncntus/blob/main/hackathon.jpg)
 ## Chứng chỉ
 - Chứng chỉ Xây dựng Ứng dụng AI trong Debug và tối ưu code trong lập trình
-  - Link: [a link](https://canvato.net/sl/tgZQ9)
+  - [Link chứng chỉ](https://canvato.net/sl/tgZQ9)
 - Xây dựng Tool Hỗ trợ xuất điểm trên LMS Fpoly
-  - Link: [a link](https://canvato.net/sl/gG4Ry)
+  - [Link chứng chỉ](https://canvato.net/sl/gG4Ry)
