@@ -17,33 +17,46 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
 ## TOOLS
 - **Trung bình:** Git, Github, Vscode, Postman, Firebase
 ## HỌC VẤN
-**FPT Polytechnic Tay Nguyen**
+- **FPT Polytechnic Tay Nguyen**
 2022 - 2024
-**GPA**
+- **GPA**
 4.0
 ## KINH NGHIỆM
-**Thành viên Xưởng thực hành FPT Polytechnic Tây Nguyên từ 10/2023 - 12/2024**
-**Thực tập sinh Frontend Tại Công ty TNHH Cuội Agency từ 08/2024 - 01/2025**
-## ✍️PROJECTS
-### Support Learning IT Project
-- **GitHub:** https://github.com/hptprobook/trainning_equipment_2024
-- **Type:** Personal Project
-- **Description:** Software for checking errors and optimizing code in programming for pupils, students, and lecturers.
-- **Technology:** Reactjs, Express, Mongodb.
-
+- **Thành viên Xưởng thực hành FPT Polytechnic Tây Nguyên từ 10/2023 - 12/2024**
+- **Thực tập sinh Frontend Tại Công ty TNHH Cuội Agency từ 08/2024 - 01/2025**
+## DỰ ÁN
+### Hệ thống bán hàng thời trang BMT Life
+- **GitHub:** [https://github.com/hptprobook/trainning_equipment_2024](https://github.com/hptprobook/datn)
+- **Mô tả:** Website bán hàng thời trang
+- **Công nghệ:** MongoDB, ReactJS, NodeJs, MUI, Socket, Firebase, TailwindCSS, React-query, Redis, Elasticsearch.
+- **Chức năng nổi bật:**
+  - Đăng ký, đăng nhập Google
+  - Tìm kiếm gần đúng, đề xuất tìm kiếm (elasticsearch)
+  - Cache data, xử lý hàng chờ giỏ hàng, thanh toán (redis)
+  - Đơn hàng, thông báo Realtime
+  - Chatbot AI
+- **Công việc thực hiện:**
+  - Phát triển API về giỏ hàng, đơn hàng, người dùng, auth, thanh toán
 ### Sales store Project
 - **GitHub:** https://github.com/ccxtncntus/wibustore
 - **Type:** Sales store project
 - **Description:** Developed a single-vendor online store for selling model kits to hobbyists and collectors.
 - **Technology:** Reactjs, Laravel, Mysql.
-
-### Clone app Instagram
-- **GitHub:** https://github.com/TamLe2312/DuAnMau
-- **Type:** Team Project
-- **Description:** Developed a photo-sharing social media app for individuals to connect and share life moments.
-- **Technology:** Reactjs, Nodejs, Mysql.
-
-## ACHIEVEMENTS
+### Shop bán hàng Mô hình
+- **GitHub:** https://github.com/ccxtncntus/wibustore
+- **Mô tả:** Website bán hàng mô hình
+- **Công nghệ:** Reactjs, Laravel, Mysql.
+- **Chức năng nổi bật:**
+  - Đăng ký, đăng nhập
+  - Giỏ hàng, đặt hàng, mua hàng
+  - Trang quản lý hệ thống(admin)
+- **Công việc thực hiện:**
+  - Phát triển API và giao diện người dùng
+## GIẢI THƯỞNG
+- Top 56 cuộc thi AI Generative của Đại học FPT tổ chức
 ![Alt text](https://github.com/ccxtncntus/ccxtncntus/blob/main/hackathon.jpg)
-- Participate in the semi-finals of the AI ​​hackathon 2024
-- https://caodang.fpt.edu.vn/tin-tuc-poly/tin-tay-nguyen/sinh-vien-cntt-fpt-polytechnic-tay-nguyen-tham-gia-hoi-thi-thiet-bi-dao-tao-tu-lam-tinh-dak-lak-2024.html 
+## Chứng chỉ
+- Chứng chỉ Xây dựng Ứng dụng AI trong Debug và tối ưu code trong lập trình
+  - Link: [a link](https://canvato.net/sl/tgZQ9)
+- Xây dựng Tool Hỗ trợ xuất điểm trên LMS Fpoly
+  - Link: [a link](https://canvato.net/sl/gG4Ry)
