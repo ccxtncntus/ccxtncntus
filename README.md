@@ -26,7 +26,7 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
 - **Thực tập sinh Frontend Tại Công ty TNHH Cuội Agency từ 08/2024 - 01/2025**
 ## DỰ ÁN
 ### Hệ thống bán hàng thời trang BMT Life
-- **GitHub:** [https://github.com/hptprobook/trainning_equipment_2024](https://github.com/hptprobook/datn)
+- **GitHub:** [Link github](https://github.com/hptprobook/datn)
 - **Mô tả:** Website bán hàng thời trang
 - **Loại:** Dự án nhóm
 - **Công nghệ:** MongoDB, ReactJS, NodeJs, MUI, Socket, Firebase, TailwindCSS, React-query, Redis, Elasticsearch.
@@ -39,7 +39,7 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
 - **Công việc thực hiện:**
   - Phát triển API về giỏ hàng, đơn hàng, người dùng, auth, thanh toán
 ### Shop bán hàng Mô hình
-- **GitHub:** https://github.com/ccxtncntus/wibustore
+- **GitHub:** [Link github](https://github.com/ccxtncntus/wibustore)
 - **Mô tả:** Website bán hàng mô hình
 - **Loại:** Dự án cá nhân
 - **Công nghệ:** Reactjs, Laravel, Mysql.
