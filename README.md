@@ -1,7 +1,7 @@
 # HUA VAN TU
 ## WEBSITE DEVELOPER
 
-**TEL:** 0327297102 | **Email:** ccxtncn00@gmail.com
+**TEL/ZALO:** 0327297102 | **Email:** ccxtncn00@gmail.com
 
 ## 👤PROFILE
 
