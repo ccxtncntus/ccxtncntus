@@ -1,4 +1,4 @@
-# HUA VAN TU
+# HỨA VĂN TÚ
 ## WEBSITE DEVELOPER
 
 **PHONE - ZALO:** 0327297102 | **EMAIL:** ccxtncn00@gmail.com
@@ -53,7 +53,7 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
 - Top 56 cuộc thi AI Generative của Đại học FPT tổ chức
 ![Alt text](https://github.com/ccxtncntus/ccxtncntus/blob/main/hackathon.jpg)
 ## Chứng chỉ
-- Chứng chỉ Xây dựng Ứng dụng AI trong Debug và tối ưu code trong lập trình
+- **Chứng chỉ Xây dựng Ứng dụng AI trong Debug và tối ưu code trong lập trình**
   - [Link chứng chỉ](https://canvato.net/sl/tgZQ9)
-- Xây dựng Tool Hỗ trợ xuất điểm trên LMS Fpoly
+- **Xây dựng Tool Hỗ trợ xuất điểm trên LMS Fpoly**
   - [Link chứng chỉ](https://canvato.net/sl/gG4Ry)
