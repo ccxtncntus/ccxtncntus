@@ -15,7 +15,7 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
   - Thư viện: Bootstrap, Material UI, Axios, Redux, Socket.IO
 - **Cơ bản:** Typescript, NextJs, Redis
 ## TOOLS
-- **Trung bình:** Git, Github, Vscode, Postman, Firebase
+- **Trung bình:** Git, Github, Vscode, Postman
 ## HỌC VẤN
 - **FPT Polytechnic Tay Nguyen**
 2022 - 2024
